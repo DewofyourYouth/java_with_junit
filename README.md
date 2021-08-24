@@ -6,4 +6,5 @@ I decided to play around with JUnit. I had never done so before so I made a repo
         -DgroupId=com.mycompany.app \
         -DartifactId=my-app \
         -DarchetypeArtifactId=maven-archetype-quickstart \
-        -DarchetypeVersion=1.4 -DinteractiveMode=false
+        -DarchetypeVersion=1.4 \
+        -DinteractiveMode=false
